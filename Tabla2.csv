@@ -1,0 +1,427 @@
+﻿COMERCIAL;ÁREA_MANAGER;ÁREA_MANAGER1;1;Conocimientos del mercado y la industria, incluyendo las tendencias, los competidores y los desafíos del sector.;0;2;2;3;4;5;5;5;5;5;5;5;5
+COMERCIAL;ÁREA_MANAGER;ÁREA_MANAGER2;2;Conocimientos sobre tipos de estrategia de ventas y análisis de las necesidades del cliente;0;1;2;3;4;5;5;5;5;5;5;5;5
+COMERCIAL;ÁREA_MANAGER;ÁREA_MANAGER3;3;Conocimientos sobre preparación de ofertas;1;2;2;3;4;5;5;5;5;5;5;5;5
+COMERCIAL;ÁREA_MANAGER;ÁREA_MANAGER4;4;Conocimientos sobre acuerdos comerciales;0;1;2;3;4;5;5;5;5;5;5;5;5
+COMERCIAL;ÁREA_MANAGER;ÁREA_MANAGER5;5;Conocimientos sobre desarrollo de negocio, benchmarking y elaboración del plan de negocio de la zona;0;1;1;2;3;3;4;5;5;5;5;5;5
+COMERCIAL;ÁREA_MANAGER;ÁREA_MANAGER6;6;Conocimientos básicos de las finanzas y cobros (entender los costes y márgenes de beneficio, y gestión de cobros y créditos);0;0;0;1;1;2;2;3;4;5;5;5;5
+COMERCIAL;ÁREA_MANAGER;ÁREA_MANAGER7;7;Conocimientos básicos jurídicos (contratos de prestación de servicios con clientes, variables y clausulas jurídicas y fiscales, etc.);0;1;2;2;2;3;3;4;4;5;5;5;5
+COMERCIAL;ÁREA_MANAGER;ÁREA_MANAGER8;8;Conocimientos de las normas, propiedades y calidad del producto;0;2;3;3;4;5;5;5;5;5;5;5;5
+COMERCIAL;ÁREA_MANAGER;ÁREA_MANAGER9;9;Conocimiento de uso correcto de las plataformas y/o programas internos;0;2;3;3;4;4;4;5;5;5;5;5;5
+COMERCIAL;ÁREA_MANAGER;ÁREA_MANAGER10;10;Conocimientos de normas y procedimientos (fichajes) de la empresa;0;2;3;3;4;4;4;5;5;5;5;5;5
+COMERCIAL;D.COMERCIAL;D.COMERCIAL1;1;Conocimiento profundo del mercado y la industria, incluyendo las tendencias, los competidores y los desafíos del sector.;;3;4;4;5;5;5;5;5;5;5;5;5
+COMERCIAL;D.COMERCIAL;D.COMERCIAL2;2;Conocimiento sólido de las estrategias de ventas efectivas y definición de objetivos de ventas.;;2;3;3;4;5;5;5;5;5;5;5;5
+COMERCIAL;D.COMERCIAL;D.COMERCIAL3;3;Conocimientos sobre negociación de contratos con clientes para alcanzar el máximo beneficio para ambas partes y asegurar relaciones comerciales a largo plazo;;3;4;4;5;5;5;5;5;5;5;5;5
+COMERCIAL;D.COMERCIAL;D.COMERCIAL4;4;Conocimientos jurídicos (contratos de prestación de servicios con clientes, variables y clausulas jurídicas y fiscales, etc.);;2;3;4;4;4;5;5;5;5;5;5;5
+COMERCIAL;D.COMERCIAL;D.COMERCIAL5;5;Conocimientos en ventas/comercial 4.0 (combinación canal offline con online);;2;3;4;5;5;5;5;5;5;5;5;5
+COMERCIAL;D.COMERCIAL;D.COMERCIAL6;6;Conocimientos sobre el ciclo de vida del cliente y estrategias de retención;;3;4;5;5;5;5;5;5;5;5;5;5
+COMERCIAL;D.COMERCIAL;D.COMERCIAL7;7;Conocimientos de técnicas de presentación y comunicación efectiva;;3;3;4;4;5;5;5;5;5;5;5;5
+COMERCIAL;D.COMERCIAL;D.COMERCIAL8;8;Conocimientos de análisis de datos y capacidad para interpretar informes de ventas;;3;4;5;5;5;5;5;5;5;5;5;5
+COMERCIAL;D.COMERCIAL;D.COMERCIAL9;9;Conocimientos en gestión del equipo;;1;2;2;3;3;4;4;4;5;5;5;5
+COMERCIAL;D.COMERCIAL;D.COMERCIAL10;10;Conocimientos en nuevas tendencias, i+d, etc. ;;1;1;2;2;3;3;3;4;4;4;5;5
+COMERCIAL;D.COMERCIAL;D.COMERCIAL11;11;Conocimientos de normas y procedimientos (fichajes) de la empresa;;3;4;4;5;5;5;5;5;5;5;5;5
+COMERCIAL;D.COMERCIAL;D.COMERCIAL12;12;Conocimiento de uso correcto de FTP - ERP (pasar ordenes a otros departamentos);;3;4;4;5;5;5;5;5;5;5;5;5
+COMERCIAL;R.MARKETING_Y_COMUNICACIÓN;R.MARKETING_Y_COMUNICACIÓN1;1;Conocimientos del mercado y la industria, incluyendo las tendencias, los competidores y los desafíos del sector;;3;3;3;4;5;5;5;5;5;5;5;5
+COMERCIAL;R.MARKETING_Y_COMUNICACIÓN;R.MARKETING_Y_COMUNICACIÓN2;2;Conocimientos en desarrollar y ejecutar un plan de marketing y comunicación con enfoque agile que refleje los objetivos y valores de la empresa;;3;3;3;4;5;5;5;5;5;5;5;5
+COMERCIAL;R.MARKETING_Y_COMUNICACIÓN;R.MARKETING_Y_COMUNICACIÓN3;3;Conocimientos en gestionar la identidad de marca y crear una imagen coherente y atractiva para la empresa en todos los canales de comunicación;;3;3;3;4;5;5;5;5;5;5;5;5
+COMERCIAL;R.MARKETING_Y_COMUNICACIÓN;R.MARKETING_Y_COMUNICACIÓN4;4;Conocimientos en crear campañas publicitarias y promociones que atraigan y retengan a los clientes, utilizando técnicas y herramientas de publicidad como SEO, SEM, publicidad en redes sociales, publicidad de display y correo electrónico;;3;4;4;4;5;5;5;5;5;5;5;5
+COMERCIAL;R.MARKETING_Y_COMUNICACIÓN;R.MARKETING_Y_COMUNICACIÓN5;5;Conocimientos de análisis de datos y métricas de marketing para evaluar la eficacia de las estrategias y campañas de marketing, y tomar decisiones sobre cómo mejorar el rendimiento;;2;3;3;4;4;4;5;5;5;5;5;5
+COMERCIAL;R.MARKETING_Y_COMUNICACIÓN;R.MARKETING_Y_COMUNICACIÓN6;6;Conocimientos sobre gestionar las relaciones públicas de la empresa, incluyendo la creación de comunicados de prensa y la organización de eventos para promover los productos de Grupos 3D Solutions;;1;2;2;3;3;4;4;4;5;5;5;5
+COMERCIAL;R.MARKETING_Y_COMUNICACIÓN;R.MARKETING_Y_COMUNICACIÓN7;7;Conocimientos sobre gestionar eficazmente el presupuesto de marketing asegurando que se asignen los recursos adecuados a las iniciativas de marketing más importantes;;2;2;3;3;3;4;4;4;5;5;5;5
+COMERCIAL;R.MARKETING_Y_COMUNICACIÓN;R.MARKETING_Y_COMUNICACIÓN8;8;Conocimientos de Photoshop, Adobe InDesign  o Adobe Illustrator;;1;2;2;3;3;4;4;4;5;5;5;5
+COMERCIAL;R.MARKETING_Y_COMUNICACIÓN;R.MARKETING_Y_COMUNICACIÓN9;9;Conocimientos en gestión del equipo;;1;2;2;3;3;4;4;4;5;5;5;5
+COMERCIAL;R.MARKETING_Y_COMUNICACIÓN;R.MARKETING_Y_COMUNICACIÓN10;10;Conocimientos de los procedimientos internos del área;;3;4;4;5;5;5;5;5;5;5;5;5
+COMERCIAL;R.MARKETING_Y_COMUNICACIÓN;R.MARKETING_Y_COMUNICACIÓN11;11;Conocimientos de normas y procedimientos (fichajes) de la empresa;;3;4;4;5;5;5;5;5;5;5;5;5
+COMPRAS;T.COMPRAS;T.COMPRAS1;1;Conocimientos de paquete Office;1;2;3;3;3;4;4;5;5;5;5;5;5
+COMPRAS;T.COMPRAS;T.COMPRAS2;2;Conocimientos en negociación de proveedores y mantenimiento de cartera de proveedores;0;1;2;2;3;3;3;4;4;4;5;5;5
+COMPRAS;T.COMPRAS;T.COMPRAS3;3;Conocimientos en conciliación proveedores y acreedores;0;1;2;2;3;3;3;4;4;4;5;5;5
+COMPRAS;T.COMPRAS;T.COMPRAS4;4;Concocimiento en negociación y gestión proveedores estrategicos (seguros, luz, etc.);0;0;1;1;2;3;3;4;4;4;5;5;5
+COMPRAS;T.COMPRAS;T.COMPRAS5;5;Conocimientos en control y gestion del presupuesto empresa y por áreas;0;0;1;1;2;3;3;4;4;4;5;5;5
+COMPRAS;T.COMPRAS;T.COMPRAS6;6;Conocimientos en gestión de planes de reducción de gastos;0;0;1;1;2;3;3;4;4;4;5;5;5
+COMPRAS;T.COMPRAS;T.COMPRAS7;7;Conocimientos básicos de gestión de subvenciones;0;0;1;1;2;3;3;4;4;4;5;5;5
+COMPRAS;T.COMPRAS;T.COMPRAS8;8;Conocimientos en Business Cental;0;2;3;4;4;4;4;5;5;5;5;5;5
+COMPRAS;T.COMPRAS;T.COMPRAS9;9;Conocimientos en informes mensuales de saldos bancos;0;1;2;2;3;3;3;4;4;4;5;5;5
+COMPRAS;T.COMPRAS;T.COMPRAS10;10;Conocimientos sobre la realización del informe mensual pagos a proveedores Grupo 3D Solutions;0;2;3;4;4;4;4;5;5;5;5;5;5
+COMPRAS;T.COMPRAS;T.COMPRAS11;11;Conocimientos de reparto de pedidos a los diferentes departamentos verificando estado de recepción o prestación de servicio;0;1;2;2;3;3;3;4;4;4;5;5;5
+COMPRAS;T.COMPRAS;T.COMPRAS12;12;Conocimientos de control de sotck y valoración mensual;0;1;2;2;3;3;3;4;4;4;5;5;5
+COMPRAS;T.COMPRAS;T.COMPRAS13;13;Conocimientos de normas y procedimientos (fichajes) de la empresa;0;2;3;3;4;4;4;5;5;5;5;5;5
+CAD;T.CAD;T.CAD1;1;Conocimientos en protesis dental;1;2;2;3;3;4;4;5;5;5;5;5;5
+CAD;T.CAD;T.CAD2;2;Conocimientos en software EXOCAD;1;2;3;3;3;4;4;5;5;5;5;5;5
+CAD;T.CAD;T.CAD3;3;Conocimientos en materiales (caracteristicas fisicas, estetica) para consejar a los clientes internos y externos;0;2;3;4;4;4;4;5;5;5;5;5;5
+CAD;T.CAD;T.CAD4;4;Conocimientos de control de calidad de productos terminados en CAD;1;2;3;4;4;4;4;5;5;5;5;5;5
+CAD;T.CAD;T.CAD5;5;Conocimientos en flujo digital;0;0;0;1;2;3;3;3;3;4;5;5;5
+CAD;T.CAD;T.CAD6;6;Conocimientos en EXOPLAN (cirujia guiada);0;0;0;0;1;1;2;3;4;5;5;5;5
+CAD;T.CAD;T.CAD7;7;Conocimientos en software en diseño CAD y/o complementarios ;0;0;0;0;0;1;2;3;4;4;5;5;5
+CAD;T.CAD;T.CAD8;8;Conocimientos en nuevas tendencias, i+d, etc. ;0;0;0;0;0;0;0;1;2;3;4;5;5
+CAD;T.CAD;T.CAD9;9;Conocimientos para impartir formaciones a clientes internos y externos;0;0;0;0;0;0;0;1;2;3;4;5;5
+CAD;T.CAD;T.CAD10;10;Conocimientos de normas y procedimientos (fichajes) de la empresa;0;2;3;3;4;4;4;5;5;5;5;5;5
+CAD;T.CAD;T.CAD11;11;Conocimiento de uso correcto de FTP - ERP (pasar ordenes a otros departamentos);0;2;3;3;4;4;4;5;5;5;5;5;5
+CAD;T.CALIDAD_CAD;T.CALIDAD_CAD1;1;Conocimientos protesicos dentales;1;1;2;3;3;3;4;4;4;5;5;5;5
+CAD;T.CALIDAD_CAD;T.CALIDAD_CAD2;2;Conocimientos en implantes interfases, tormilleria, etc.;1;1;2;3;3;3;4;4;4;5;5;5;5
+CAD;T.CALIDAD_CAD;T.CALIDAD_CAD3;3;Conocimientos en proceso de calidad de materiales blandos;1;1;2;3;3;3;4;4;4;5;5;5;5
+CAD;T.CALIDAD_CAD;T.CALIDAD_CAD4;4;Conocimientos en proceso de calidad de materiales duros - metales;1;1;2;2;3;3;3;4;4;4;4;5;5
+CAD;T.CALIDAD_CAD;T.CALIDAD_CAD5;5;Conocimientos en proceso de calidad de materiales fresmedical;0;0;0;1;2;2;3;4;4;4;5;5;5
+CAD;T.CALIDAD_CAD;T.CALIDAD_CAD6;6;Conocimientos en pieza médica;0;0;0;1;2;2;3;3;3;4;4;5;5
+CAD;T.CALIDAD_CAD;T.CALIDAD_CAD7;7;Conocimientos en reparar piezas complejas (evitar repetición);0;0;0;1;2;3;3;3;3;4;4;5;5
+CAD;T.CALIDAD_CAD;T.CALIDAD_CAD8;8;Conocimientos de los procedimientos internos del área;0;2;3;3;4;4;4;5;5;5;5;5;5
+CAD;T.CALIDAD_CAD;T.CALIDAD_CAD9;9;Conocimientos de normas y procedimientos (fichajes) de la empresa;0;2;3;3;4;4;4;5;5;5;5;5;5
+CAD;T.CALIDAD_CAD;T.CALIDAD_CAD10;10;Conocimientos de uso correcto de FTP - ERP (pasar ordenes a otros departamentos);0;2;3;3;4;4;4;5;5;5;5;5;5
+CAD;JE.CAD;JE.CAD1;1;Conocimientos en protesis dental;;3;4;4;5;5;5;5;5;5;5;5;5
+CAD;JE.CAD;JE.CAD2;2;Conocimientos en software EXOCAD;;3;4;4;5;5;5;5;5;5;5;5;5
+CAD;JE.CAD;JE.CAD3;3;Conocimientos en materiales (caracteristicas fisicas, estetica) para consejar a los clientes internos y externos;;4;4;4;5;5;5;5;5;5;5;5;5
+CAD;JE.CAD;JE.CAD4;4;Conocimientos de control de calidad de productos terminados en CAD;;4;4;4;5;5;5;5;5;5;5;5;5
+CAD;JE.CAD;JE.CAD5;5;Conocimientos en flujo digital;;2;3;3;4;4;4;5;5;5;5;5;5
+CAD;JE.CAD;JE.CAD6;6;Conocimientos en EXOPLAN (cirujia guiada);;1;1;2;3;3;3;4;4;4;5;5;5
+CAD;JE.CAD;JE.CAD7;7;Conocimientos en software en diseño CAD y/o complementarios ;;2;3;3;4;4;4;5;5;5;5;5;5
+CAD;JE.CAD;JE.CAD8;8;Conocimientos en nuevas tendencias, i+d, etc. ;;1;1;2;3;3;3;4;4;4;5;5;5
+CAD;JE.CAD;JE.CAD9;9;Conocimientos para impartir formaciones a clientes internos y externos;;2;2;2;3;3;3;4;4;4;5;5;5
+CAD;JE.CAD;JE.CAD10;10;Conocimientos en gestión del equipo;;1;2;2;3;3;4;4;4;5;5;5;5
+CAD;JE.CAD;JE.CAD11;11;Conocimientos de normas y procedimientos (fichajes) de la empresa;;3;4;4;5;5;5;5;5;5;5;5;5
+CAD;JE.CAD;JE.CAD12;12;Conocimiento de uso correcto de FTP - ERP (pasar ordenes a otros departamentos);;3;4;4;5;5;5;5;5;5;5;5;5
+CAD;R.CAD;R.CAD1;1;Conocimientos en protesis dental;;3;4;4;5;5;5;5;5;5;5;5;5
+CAD;R.CAD;R.CAD2;2;Conocimientos en software EXOCAD;;3;4;4;5;5;5;5;5;5;5;5;5
+CAD;R.CAD;R.CAD3;3;Conocimientos en materiales (caracteristicas fisicas, estetica) para consejar a los clientes internos y externos;;4;4;4;5;5;5;5;5;5;5;5;5
+CAD;R.CAD;R.CAD4;4;Conocimientos de control de calidad de productos terminados en CAD;;4;4;4;5;5;5;5;5;5;5;5;5
+CAD;R.CAD;R.CAD5;5;Conocimientos en flujo digital;;4;4;4;5;5;5;5;5;5;5;5;5
+CAD;R.CAD;R.CAD6;6;Conocimientos en EXOPLAN (cirujia guiada);;3;3;4;4;5;5;5;5;5;5;5;5
+CAD;R.CAD;R.CAD7;7;Conocimientos en software en diseño CAD y/o complementarios ;;3;4;4;5;5;5;5;5;5;5;5;5
+CAD;R.CAD;R.CAD8;8;Conocimientos en proporcionar soluciones adaptadas a los clientes (mentalidad análitica);;3;3;3;4;4;4;5;5;5;5;5;5
+CAD;R.CAD;R.CAD9;9;Conocimientos en la elaboración de manuales de formación y formato de los cursos;;3;4;4;5;5;5;5;5;5;5;5;5
+CAD;R.CAD;R.CAD10;10;Conocimientos en planificación protesica de fresmedical;;4;5;5;5;5;5;5;5;5;5;5;5
+CAD;R.CAD;R.CAD11;11;Conocimientos en nuevas tendencias, i+d, etc. ;;3;3;3;3;3;3;3;3;3;3;3;3
+CAD;R.CAD;R.CAD12;12;Conocimientos para impartir formaciones a clientes internos y externos;;3;3;3;3;3;3;3;3;3;3;3;3
+CAD;R.CAD;R.CAD13;13;Conocimientos en gestión del equipo;;2;3;3;4;4;5;5;5;5;5;5;5
+CAD;R.CAD;R.CAD14;14;Conocimientos de normas y procedimientos (fichajes) de la empresa;0;3;4;4;5;5;5;5;5;5;5;5;5
+CAD;R.CAD;R.CAD15;15;Conocimiento de uso correcto de FTP - ERP (pasar ordenes a otros departamentos);0;3;4;4;5;5;5;5;5;5;5;5;5
+CAD;D.CAD;D.CAD1;1;Conocimientos en protesis dental;;4;5;5;5;5;5;5;5;5;5;5;5
+CAD;D.CAD;D.CAD2;2;Conocimientos en software EXOCAD;;4;4;5;5;5;5;5;5;5;5;5;5
+CAD;D.CAD;D.CAD3;3;Conocimientos en materiales (caracteristicas fisicas, estetica) para consejar a los clientes internos y externos;;4;4;4;5;5;5;5;5;5;5;5;5
+CAD;D.CAD;D.CAD4;4;Conocimientos de control de calidad de productos terminados en CAD;;4;4;4;5;5;5;5;5;5;5;5;5
+CAD;D.CAD;D.CAD5;5;Conocimientos en flujo digital;;4;4;4;5;5;5;5;5;5;5;5;5
+CAD;D.CAD;D.CAD6;6;Conocimientos en EXOPLAN (cirujia guiada);;3;3;4;4;5;5;5;5;5;5;5;5
+CAD;D.CAD;D.CAD7;7;Conocimientos en software en diseño CAD y/o complementarios ;;3;4;4;5;5;5;5;5;5;5;5;5
+CAD;D.CAD;D.CAD8;8;Conocimientos en proporcionar soluciones adaptadas a los clientes (mentalidad análitica);;4;4;4;5;5;5;5;5;5;5;5;5
+CAD;D.CAD;D.CAD9;9;Conocimientos en la elaboración de manuales de formación y formato de los cursos;;3;4;4;5;5;5;5;5;5;5;5;5
+CAD;D.CAD;D.CAD10;10;Conocimientos en planificación protesica de fresmedical;;4;5;5;5;5;5;5;5;5;5;5;5
+CAD;D.CAD;D.CAD11;11;Conocimientos en nuevas tendencias, i+d, etc. ;;3;4;4;5;5;5;5;5;5;5;5;5
+CAD;D.CAD;D.CAD12;12;Conocimientos para impartir formaciones a clientes internos y externos;;4;4;5;5;5;5;5;5;5;5;5;5
+CAD;D.CAD;D.CAD13;13;Conocimientos en la elaboración del plan de acción anual del área CAD;;2;2;2;3;3;3;4;4;4;5;5;5
+CAD;D.CAD;D.CAD14;14;Conocimientos en la gestión de proyectos y desarrollo de nuevos productos;;2;2;2;3;3;3;4;4;4;5;5;5
+CAD;D.CAD;D.CAD15;15;Conocimientos en la impartición de conferencias;;2;2;2;3;3;3;4;4;4;5;5;5
+CAD;D.CAD;D.CAD16;16;Conocimientos en representación institucional de la marca ;;2;2;2;3;3;3;4;4;4;5;5;5
+CAD;D.CAD;D.CAD17;17;Conocimientos en gestión del equipo;;3;3;3;4;4;5;5;5;5;5;5;5
+CAD;D.CAD;D.CAD18;18;Conocimientos de normas y procedimientos (fichajes) de la empresa;;3;4;4;5;5;5;5;5;5;5;5;5
+CAD;D.CAD;D.CAD19;19;Conocimiento de uso correcto de FTP - ERP (pasar ordenes a otros departamentos);;3;4;4;5;5;5;5;5;5;5;5;5
+CÁLCULO;T.CÁLCULO;T.CÁLCULO1;1;Conocimientos en protesis dental;0;1;1;2;3;3;3;4;4;5;5;5;5
+CÁLCULO;T.CÁLCULO;T.CÁLCULO2;2;Conocimientos en cálculo de piezas de circoneo - materiales blandos;0;2;2;3;3;4;4;4;5;5;5;5;5
+CÁLCULO;T.CÁLCULO;T.CÁLCULO3;3;Conocimientos en rectificado;0;0;1;2;3;3;3;4;4;4;5;5;5
+CÁLCULO;T.CÁLCULO;T.CÁLCULO4;4;Conocimientos en cálculo de piezas de metal - materiales duros;0;0;0;1;2;3;3;4;4;4;5;5;5
+CÁLCULO;T.CÁLCULO;T.CÁLCULO5;5;Conocimientos en cálculo de piezas de fresmedical;0;0;0;0;1;2;2;3;4;4;5;5;5
+CÁLCULO;T.CÁLCULO;T.CÁLCULO6;6;Conocimientos en piezas normales;0;2;2;3;3;4;4;5;5;5;5;5;5
+CÁLCULO;T.CÁLCULO;T.CÁLCULO7;7;Conocimientos en piezas complejas;0;1;2;2;3;3;3;4;4;5;5;5;5
+CÁLCULO;T.CÁLCULO;T.CÁLCULO8;8;Conocimientos en desarrollo de estrategías de mecanizado;0;0;0;0;0;1;2;3;3;4;4;5;5
+CÁLCULO;T.CÁLCULO;T.CÁLCULO9;9;Conocimientos de los procedimientos internos del área;0;2;3;3;4;4;4;5;5;5;5;5;5
+CÁLCULO;T.CÁLCULO;T.CÁLCULO10;10;Conocimientos de normas y procedimientos (fichajes) de la empresa;0;2;3;3;4;4;4;5;5;5;5;5;5
+CÁLCULO;T.CÁLCULO;T.CÁLCULO11;11;Conocimientos en materiales (Indicaciones, uso,…);0;1;2;3;3;4;4;5;5;5;5;5;5
+CÁLCULO;T.CÁLCULO;T.CÁLCULO12;12;Conocimientos de uso correcto de FTP - ERP (pasar ordenes a otros departamentos);0;2;3;3;4;4;4;5;5;5;5;5;5
+CÁLCULO;JE.CÁLCULO;JE.CÁLCULO1;1;Conocimientos en protesis dental;;4;4;4;5;5;5;5;5;5;5;5;5
+CÁLCULO;JE.CÁLCULO;JE.CÁLCULO2;2;Conocimientos en cálculo de piezas de circoneo - materiales blandos;;4;4;4;5;5;5;5;5;5;5;5;5
+CÁLCULO;JE.CÁLCULO;JE.CÁLCULO3;3;Conocimientos en rectificado;;3;4;4;4;5;5;5;5;5;5;5;5
+CÁLCULO;JE.CÁLCULO;JE.CÁLCULO4;4;Conocimientos en cálculo de piezas de metal - materiales duros;;3;3;3;4;4;4;5;5;5;5;5;5
+CÁLCULO;JE.CÁLCULO;JE.CÁLCULO5;5;Conocimientos en cálculo de piezas de fresmedical;;1;2;2;3;3;4;4;4;4;5;5;5
+CÁLCULO;JE.CÁLCULO;JE.CÁLCULO6;6;Conocimientos en piezas normales;;4;4;4;5;5;5;5;5;5;5;5;5
+CÁLCULO;JE.CÁLCULO;JE.CÁLCULO7;7;Conocimientos en piezas complejas;;3;3;3;4;4;4;5;5;5;5;5;5
+CÁLCULO;JE.CÁLCULO;JE.CÁLCULO8;8;Conocimientos en gestión del equipo;;1;2;2;3;3;4;4;4;5;5;5;5
+CÁLCULO;JE.CÁLCULO;JE.CÁLCULO9;9;Conocimientos en nuevas tendencias, i+d, etc. ;;1;1;2;2;3;3;3;4;4;4;5;5
+CÁLCULO;JE.CÁLCULO;JE.CÁLCULO10;10;Conocimientos en desarrollo de estrategías de mecanizado;;1;1;2;2;3;3;3;4;4;5;5;5
+CÁLCULO;JE.CÁLCULO;JE.CÁLCULO11;11;Conocimientos de los procedimientos internos del área;;3;4;4;5;5;5;5;5;5;5;5;5
+CÁLCULO;JE.CÁLCULO;JE.CÁLCULO12;12;Conocimientos de normas y procedimientos (fichajes) de la empresa;;3;4;4;5;5;5;5;5;5;5;5;5
+CÁLCULO;JE.CÁLCULO;JE.CÁLCULO13;13;Conocimientos avanzados del proceso CAD-CAM de Grupo 3D Solutions;;3;4;4;5;5;5;5;5;5;5;5;5
+CÁLCULO;JE.CÁLCULO;JE.CÁLCULO14;14;Conocimientos de uso correcto de FTP - ERP (pasar ordenes a otros departamentos);;3;4;4;5;5;5;5;5;5;5;5;5
+MÁQUINAS;T.MÁQUINAS;T.MÁQUINAS1;1;Conocimientos en hornos;0;3;3;3;4;4;4;5;5;5;5;5;5
+MÁQUINAS;T.MÁQUINAS;T.MÁQUINAS2;2;Conocimientos en compresores;0;3;3;3;4;4;4;5;5;5;5;5;5
+MÁQUINAS;T.MÁQUINAS;T.MÁQUINAS3;3;Conocimientos en las máquinas impresoras 3D Resina;0;1;2;3;3;4;4;4;5;5;5;5;5
+MÁQUINAS;T.MÁQUINAS;T.MÁQUINAS4;4;Conocimientos en las máquinas impresoras 3D Metal;0;1;2;3;3;4;4;4;5;5;5;5;5
+MÁQUINAS;T.MÁQUINAS;T.MÁQUINAS5;5;Conocimientos en las máquinas de disilicato;0;1;2;3;3;4;4;4;5;5;5;5;5
+MÁQUINAS;T.MÁQUINAS;T.MÁQUINAS6;6;Conocimientos en las máquinas circonio;0;1;2;2;3;3;3;4;4;4;5;5;5
+MÁQUINAS;T.MÁQUINAS;T.MÁQUINAS7;7;Conocimientos en renishaw;0;0;1;1;2;2;3;3;4;4;5;5;5
+MÁQUINAS;T.MÁQUINAS;T.MÁQUINAS8;8;Conocimientos en las máquinas de fresadoras de metal HERMLE;0;1;1;2;2;3;3;3;4;4;4;5;5
+MÁQUINAS;T.MÁQUINAS;T.MÁQUINAS9;9;Conocimientos de los procedimientos internos del área;0;2;3;3;4;4;4;5;5;5;5;5;5
+MÁQUINAS;T.MÁQUINAS;T.MÁQUINAS10;10;Conocimientos de normas y procedimientos (fichajes) de la empresa;0;2;3;3;4;4;4;5;5;5;5;5;5
+MÁQUINAS;T.MÁQUINAS;T.MÁQUINAS11;11;Conocimientos de uso correcto de FTP - ERP (pasar ordenes a otros departamentos);0;2;3;3;4;4;4;5;5;5;5;5;5
+MÁQUINAS;JE.MÁQUINAS;JE.MÁQUINAS1;1;Conocimientos en hornos;;4;4;4;5;5;5;5;5;5;5;5;5
+MÁQUINAS;JE.MÁQUINAS;JE.MÁQUINAS2;2;Conocimientos en compresores;;4;4;4;5;5;5;5;5;5;5;5;5
+MÁQUINAS;JE.MÁQUINAS;JE.MÁQUINAS3;3;Conocimientos en las máquinas impresoras 3D Resina;;4;4;4;5;5;5;5;5;5;5;5;5
+MÁQUINAS;JE.MÁQUINAS;JE.MÁQUINAS4;4;Conocimientos en las máquinas impresoras 3D Metal;;4;4;4;5;5;5;5;5;5;5;5;5
+MÁQUINAS;JE.MÁQUINAS;JE.MÁQUINAS5;5;Conocimientos en las máquinas de disilicato;;4;4;4;5;5;5;5;5;5;5;5;5
+MÁQUINAS;JE.MÁQUINAS;JE.MÁQUINAS6;6;Conocimientos en las máquinas circoneo;;3;3;4;4;4;4;5;5;5;5;5;5
+MÁQUINAS;JE.MÁQUINAS;JE.MÁQUINAS7;7;Conocimientos en renishaw;;3;3;4;4;4;4;5;5;5;5;5;5
+MÁQUINAS;JE.MÁQUINAS;JE.MÁQUINAS8;8;Conocimientos en las máquinas de fresadoras de metal HERMLE;;2;3;3;4;4;4;4;5;5;5;5;5
+MÁQUINAS;JE.MÁQUINAS;JE.MÁQUINAS9;9;Conocimientos en gestión del equipo;;1;2;2;3;3;4;4;4;5;5;5;5
+MÁQUINAS;JE.MÁQUINAS;JE.MÁQUINAS10;10;Conocimientos de los procedimientos internos del área;;3;4;4;5;5;5;5;5;5;5;5;5
+MÁQUINAS;JE.MÁQUINAS;JE.MÁQUINAS11;11;Conocimientos de normas y procedimientos (fichajes) de la empresa;;3;4;4;5;5;5;5;5;5;5;5;5
+MÁQUINAS;JE.MÁQUINAS;JE.MÁQUINAS12;12;Conocimientos de uso correcto de FTP - ERP (pasar ordenes a otros departamentos);;3;4;4;5;5;5;5;5;5;5;5;5
+CALIDAD;T.CALIDAD;T.CALIDAD1;1;Conocimientos protesicos dentales;1;1;2;3;3;3;4;4;4;5;5;5;5
+CALIDAD;T.CALIDAD;T.CALIDAD2;2;Conocimientos en implantes interfases, tormilleria, etc.;1;1;2;3;3;3;4;4;4;5;5;5;5
+CALIDAD;T.CALIDAD;T.CALIDAD3;3;Conocimientos en hornos ZR/Cerámica;1;1;2;3;3;3;4;4;4;5;5;5;5
+CALIDAD;T.CALIDAD;T.CALIDAD4;4;Conocimientos en proceso de calidad de materiales blandos;1;1;2;3;3;3;4;4;4;5;5;5;5
+CALIDAD;T.CALIDAD;T.CALIDAD5;5;Conocimientos en proceso de calidad de materiales duros - metales;1;1;2;2;3;3;3;4;4;4;4;5;5
+CALIDAD;T.CALIDAD;T.CALIDAD6;6;Conocimientos en proceso de calidad de materiales fresmedical;0;0;0;1;2;2;3;4;4;4;5;5;5
+CALIDAD;T.CALIDAD;T.CALIDAD7;7;Conocimientos en pieza médica;0;0;0;1;2;2;3;3;3;4;4;5;5
+CALIDAD;T.CALIDAD;T.CALIDAD8;8;Conocimientos en reparar piezas complejas (evitar repetición);0;0;0;1;2;3;3;3;3;4;4;5;5
+CALIDAD;T.CALIDAD;T.CALIDAD9;9;Conocimientos de los procedimientos internos del área;0;2;3;3;4;4;4;5;5;5;5;5;5
+CALIDAD;T.CALIDAD;T.CALIDAD10;10;Conocimientos de normas y procedimientos (fichajes) de la empresa;0;2;3;3;4;4;4;5;5;5;5;5;5
+CALIDAD;T.CALIDAD;T.CALIDAD11;11;Conocimientos de uso correcto de FTP - ERP (pasar ordenes a otros departamentos);0;2;3;3;4;4;4;5;5;5;5;5;5
+CALIDAD;JE.CALIDAD;JE.CALIDAD1;1;Conocimientos protesicos dentales;;3;4;4;4;5;5;5;5;5;5;5;5
+CALIDAD;JE.CALIDAD;JE.CALIDAD2;2;Conocimientos en implantes interfases, tormilleria, etc.;;3;4;4;4;5;5;5;5;5;5;5;5
+CALIDAD;JE.CALIDAD;JE.CALIDAD3;3;Conocimientos en hornos ZR/Cerámica;;3;4;4;4;5;5;5;5;5;5;5;5
+CALIDAD;JE.CALIDAD;JE.CALIDAD4;4;Conocimientos en proceso de calidad de materiales blandos;;3;4;4;4;5;5;5;5;5;5;5;5
+CALIDAD;JE.CALIDAD;JE.CALIDAD5;5;Conocimientos en proceso de calidad de materiales duros - metales;;3;3;4;4;4;5;5;5;5;5;5;5
+CALIDAD;JE.CALIDAD;JE.CALIDAD6;6;Conocimientos en proceso de calidad de materiales fresmedical;;2;3;3;3;4;4;5;5;5;5;5;5
+CALIDAD;JE.CALIDAD;JE.CALIDAD7;7;Conocimientos en pieza médica;;2;3;3;3;4;4;5;5;5;5;5;5
+CALIDAD;JE.CALIDAD;JE.CALIDAD8;8;Conocimientos en reparar piezas complejas (evitar repetición);;3;3;4;4;4;5;5;5;5;5;5;5
+CALIDAD;JE.CALIDAD;JE.CALIDAD9;9;Conocimientos de normas y procedimientos (fichajes) de la empresa;;3;4;4;5;5;5;5;5;5;5;5;5
+CALIDAD;JE.CALIDAD;JE.CALIDAD10;10;Conocimiento de uso correcto de FTP - ERP (pasar ordenes a otros departamentos);;3;4;4;5;5;5;5;5;5;5;5;5
+CALIDAD;JE.CALIDAD;JE.CALIDAD11;11;Conocimientos de los procedimientos internos del área;;3;4;4;5;5;5;5;5;5;5;5;5
+CALIDAD;JE.CALIDAD;JE.CALIDAD12;12;Conocimientos de normas y procedimientos (fichajes) de la empresa;;1;2;2;3;3;4;4;4;5;5;5;5
+CALIDAD;JE.CALIDAD;JE.CALIDAD13;13;Conocimientos de uso correcto de FTP - ERP (pasar ordenes a otros departamentos);;1;1;2;2;3;3;3;4;4;4;5;5
+IMPRESIÓN_3D;T.IMPRESIÓN_3D;T.IMPRESIÓN_3D1;1;Conocimientos en ASIGA Composer software;0;1;2;3;4;4;5;5;5;5;5;5;5
+IMPRESIÓN_3D;T.IMPRESIÓN_3D;T.IMPRESIÓN_3D2;2;Conocimientos en Microform software;0;1;2;3;4;4;5;5;5;5;5;5;5
+IMPRESIÓN_3D;T.IMPRESIÓN_3D;T.IMPRESIÓN_3D3;3;Conocimientos en 3Shape CAMbridge;0;1;2;2;3;3;4;4;5;5;5;5;5
+IMPRESIÓN_3D;T.IMPRESIÓN_3D;T.IMPRESIÓN_3D4;4;Conocimientos en Pyramis;0;1;2;2;3;3;4;4;5;5;5;5;5
+IMPRESIÓN_3D;T.IMPRESIÓN_3D;T.IMPRESIÓN_3D5;5;Conocimientos en software Make&Milk remecanizado;0;1;2;2;2;3;3;3;4;4;5;5;5
+IMPRESIÓN_3D;T.IMPRESIÓN_3D;T.IMPRESIÓN_3D6;6;Conocimientos en impresión de resina;0;1;2;3;4;4;5;5;5;5;5;5;5
+IMPRESIÓN_3D;T.IMPRESIÓN_3D;T.IMPRESIÓN_3D7;7;Conocimientos en impresión de metal;0;1;2;2;2;3;3;3;4;4;5;5;5
+IMPRESIÓN_3D;T.IMPRESIÓN_3D;T.IMPRESIÓN_3D8;8;Conocimientos en gestión de archivos stl formato 3D;0;2;3;3;4;4;4;5;5;5;5;5;5
+IMPRESIÓN_3D;T.IMPRESIÓN_3D;T.IMPRESIÓN_3D9;9;Conocimientos de los procedimientos internos del área;0;2;3;3;4;4;4;5;5;5;5;5;5
+IMPRESIÓN_3D;T.IMPRESIÓN_3D;T.IMPRESIÓN_3D10;10;Conocimientos de normas y procedimientos (fichajes) de la empresa;0;2;3;3;4;4;4;5;5;5;5;5;5
+IMPRESIÓN_3D;T.IMPRESIÓN_3D;T.IMPRESIÓN_3D11;11;Conocimientos de uso correcto de FTP - ERP (pasar ordenes a otros departamentos);0;2;3;3;4;4;4;5;5;5;5;5;5
+ALINEADO;T.ALINEADO;T.ALINEADO1;1;Conocimientos en protesis dental;1;2;2;3;3;4;4;5;5;5;5;5;5
+ALINEADO;T.ALINEADO;T.ALINEADO2;2;Conocimientos en software EXOCAD;1;2;3;3;3;4;4;5;5;5;5;5;5
+ALINEADO;T.ALINEADO;T.ALINEADO3;3;Conocimientos en software en diseño CAD y/o complementarios ;1;1;2;3;3;3;4;4;4;5;5;5;5
+ALINEADO;T.ALINEADO;T.ALINEADO4;4;Conocimientos en cálculo de piezas de circoneo - materiales blandos;1;1;2;3;3;3;4;4;4;5;5;5;5
+ALINEADO;T.ALINEADO;T.ALINEADO5;5;Conocimientos en rectificado;1;1;2;3;3;3;4;4;4;5;5;5;5
+ALINEADO;T.ALINEADO;T.ALINEADO6;6;Conocimientos en GEOMAGIC;1;1;2;3;3;3;4;4;4;5;5;5;5
+ALINEADO;T.ALINEADO;T.ALINEADO7;7;Conocimientos de los procedimientos internos del área;0;2;3;3;4;4;4;5;5;5;5;5;5
+ALINEADO;T.ALINEADO;T.ALINEADO8;8;Conocimientos de normas y procedimientos (fichajes) de la empresa;0;2;3;3;4;4;4;5;5;5;5;5;5
+ALINEADO;T.ALINEADO;T.ALINEADO9;9;Conocimientos avanzados del proceso CAD-CAM de Grupo 3D Solutions;0;2;3;3;4;4;4;5;5;5;5;5;5
+ALINEADO;T.ALINEADO;T.ALINEADO10;10;Conocimientos de uso correcto de FTP - ERP (pasar ordenes a otros departamentos);0;2;3;3;4;4;4;5;5;5;5;5;5
+MANTENIMIENTO;T.MANTENIMIENTO;T.MANTENIMIENTO1;1;Conocimientos en hornos;0;3;3;3;4;4;4;5;5;5;5;5;5
+MANTENIMIENTO;T.MANTENIMIENTO;T.MANTENIMIENTO2;2;Conocimientos en compresores;0;3;3;3;4;4;4;5;5;5;5;5;5
+MANTENIMIENTO;T.MANTENIMIENTO;T.MANTENIMIENTO3;3;Conocimientos en las máquinas impresoras 3D Resina;0;1;2;3;3;4;4;4;5;5;5;5;5
+MANTENIMIENTO;T.MANTENIMIENTO;T.MANTENIMIENTO4;4;Conocimientos en las máquinas impresoras 3D Metal;0;1;2;3;3;4;4;4;5;5;5;5;5
+MANTENIMIENTO;T.MANTENIMIENTO;T.MANTENIMIENTO5;5;Conocimientos en las máquinas de disilicato;0;1;2;3;3;4;4;4;5;5;5;5;5
+MANTENIMIENTO;T.MANTENIMIENTO;T.MANTENIMIENTO6;6;Conocimientos en las máquinas circonio;0;1;2;2;3;3;3;4;4;4;5;5;5
+MANTENIMIENTO;T.MANTENIMIENTO;T.MANTENIMIENTO7;7;Conocimientos en renishaw;0;0;1;1;2;2;3;3;4;4;5;5;5
+MANTENIMIENTO;T.MANTENIMIENTO;T.MANTENIMIENTO8;8;Conocimientos en las máquinas de fresadoras de metal HERMLE;0;1;1;2;2;3;3;3;4;4;4;5;5
+MANTENIMIENTO;T.MANTENIMIENTO;T.MANTENIMIENTO9;9;Conocimientos en mantenimientos preventivos y correctivos de todas las máquinas;0;1;2;2;2;3;3;4;4;4;5;5;5
+MANTENIMIENTO;T.MANTENIMIENTO;T.MANTENIMIENTO10;10;Conocimientos en GMAO;0;1;1;2;2;3;3;4;4;4;5;5;5
+MANTENIMIENTO;T.MANTENIMIENTO;T.MANTENIMIENTO11;11;Conocimientos de los procedimientos internos del área;0;2;3;3;4;4;4;5;5;5;5;5;5
+MANTENIMIENTO;T.MANTENIMIENTO;T.MANTENIMIENTO12;12;Conocimientos de normas y procedimientos (fichajes) de la empresa;0;2;3;3;4;4;4;5;5;5;5;5;5
+MANTENIMIENTO;T.MANTENIMIENTO;T.MANTENIMIENTO13;13;Conocimientos avanzados del proceso CAD-CAM de Grupo 3D Solutions;0;2;3;3;4;4;4;5;5;5;5;5;5
+MANTENIMIENTO;T.MANTENIMIENTO;T.MANTENIMIENTO14;14;Conocimientos de uso correcto de FTP - ERP (pasar ordenes a otros departamentos);0;2;3;3;4;4;4;5;5;5;5;5;5
+PRODUCCIÓN;D.PRODUCCIÓN;D.PRODUCCIÓN1;1;Conocimientos de todas las máquinas;;3;4;5;5;5;5;5;5;5;5;5;5
+PRODUCCIÓN;D.PRODUCCIÓN;D.PRODUCCIÓN2;2;Conocimientos de mecanizado;;3;4;5;5;5;5;5;5;5;5;5;5
+PRODUCCIÓN;D.PRODUCCIÓN;D.PRODUCCIÓN3;3;Conocimientos de softwares de producción;;3;4;5;5;5;5;5;5;5;5;5;5
+PRODUCCIÓN;D.PRODUCCIÓN;D.PRODUCCIÓN4;4;Conocimientos de sistemas y estrategias de producción y planificación;;3;4;5;5;5;5;5;5;5;5;5;5
+PRODUCCIÓN;D.PRODUCCIÓN;D.PRODUCCIÓN5;5;Conocimientos de costes y escandallos;;2;3;5;5;5;5;5;5;5;5;5;5
+PRODUCCIÓN;D.PRODUCCIÓN;D.PRODUCCIÓN6;6;Conocimientos de los indicadores propios del área;;3;4;5;5;5;5;5;5;5;5;5;5
+PRODUCCIÓN;D.PRODUCCIÓN;D.PRODUCCIÓN7;7;Habilidad en generar planes de acción;;3;3;4;5;5;5;5;5;5;5;5;5
+PRODUCCIÓN;D.PRODUCCIÓN;D.PRODUCCIÓN8;8;Conocimientos en control de calidad en los procesos y productos;;3;4;5;5;5;5;5;5;5;5;5;5
+PRODUCCIÓN;D.PRODUCCIÓN;D.PRODUCCIÓN9;9;Conocimientos en gestión del equipo;;3;4;5;5;5;5;5;5;5;5;5;5
+PRODUCCIÓN;D.PRODUCCIÓN;D.PRODUCCIÓN10;10;Conocimientos en nuevas tendencias, i+d, etc. ;;2;3;4;5;5;5;5;5;5;5;5;5
+PRODUCCIÓN;D.PRODUCCIÓN;D.PRODUCCIÓN11;11;Conocimientos de normas y procedimientos (fichajes) de la empresa;;3;4;5;5;5;5;5;5;5;5;5;5
+PRODUCCIÓN;D.PRODUCCIÓN;D.PRODUCCIÓN12;12;Conocimientos avanzados del proceso CAD-CAM de Grupo 3D Solutions;;3;4;5;5;5;5;5;5;5;5;5;5
+PRODUCCIÓN;D.PRODUCCIÓN;D.PRODUCCIÓN13;13;Conocimientos de uso correcto de FTP - ERP (pasar ordenes a otros departamentos);;3;4;5;5;5;5;5;5;5;5;5;5
+FRESMEDICAL;T.CORTE_Y_REPASO;T.CORTE_Y_REPASO1;1;Conocimientos en materiales metálicos;1;1;2;3;3;3;4;4;4;5;5;5;5
+FRESMEDICAL;T.CORTE_Y_REPASO;T.CORTE_Y_REPASO2;2;Conocimientos en estructuras mecánicas (tornillos, uniones, etc..);1;1;2;3;3;3;4;4;4;5;5;5;5
+FRESMEDICAL;T.CORTE_Y_REPASO;T.CORTE_Y_REPASO3;3;Conocimientos en operaciones de fabricación.;1;1;2;3;3;3;4;4;4;5;5;5;5
+FRESMEDICAL;T.CORTE_Y_REPASO;T.CORTE_Y_REPASO4;4;Conocimientos en técnicas de acabado superficial de metales y otros materiales.;1;1;2;3;3;3;4;4;4;5;5;5;5
+FRESMEDICAL;T.CORTE_Y_REPASO;T.CORTE_Y_REPASO5;5;Conocimientos de herramientas manuales mecánicas (taladros, pulidoras, etc.);1;1;2;2;3;3;3;4;4;4;4;5;5
+FRESMEDICAL;T.CORTE_Y_REPASO;T.CORTE_Y_REPASO6;6;Conocimientos en proceso de calidad de materiales fresmedical;0;0;0;1;2;2;3;4;4;4;5;5;5
+FRESMEDICAL;T.CORTE_Y_REPASO;T.CORTE_Y_REPASO7;7;Conocimientos generales de implantes médicos (piezas Fresmedical);0;0;0;1;2;2;3;3;3;4;4;5;5
+FRESMEDICAL;T.CORTE_Y_REPASO;T.CORTE_Y_REPASO8;8;Conocimientos en reparar piezas complejas (evitar repetición);0;0;0;1;2;3;3;3;3;4;4;5;5
+FRESMEDICAL;T.CORTE_Y_REPASO;T.CORTE_Y_REPASO9;9;Conocimientos de los procedimientos internos del área;0;2;3;3;4;4;4;5;5;5;5;5;5
+FRESMEDICAL;T.CORTE_Y_REPASO;T.CORTE_Y_REPASO10;10;Conocimientos de normas y procedimientos (fichajes) de la empresa;0;2;3;3;4;4;4;5;5;5;5;5;5
+FRESMEDICAL;T.CORTE_Y_REPASO;T.CORTE_Y_REPASO11;11;Conocimientos de uso correcto de FTP - ERP (pasar ordenes a otros departamentos);0;2;3;3;4;4;4;5;5;5;5;5;5
+FRESMEDICAL;I.DISEÑO_BIOMÉDICO;I.DISEÑO_BIOMÉDICO1;1;Conocimientos de diseño e implantes biomédicos software MATERIALISE;0;1;2;3;4;4;4;5;5;5;5;5;5
+FRESMEDICAL;I.DISEÑO_BIOMÉDICO;I.DISEÑO_BIOMÉDICO2;2;Conocimientos básicos clinicos (contacto con el doctor/cirujanos);1;1;2;2;3;3;3;4;4;5;5;5;5
+FRESMEDICAL;I.DISEÑO_BIOMÉDICO;I.DISEÑO_BIOMÉDICO3;3;Conocimientos de fabricación de los productos médicos (titanio, resina y poliamida);0;1;2;3;4;4;4;5;5;5;5;5;5
+FRESMEDICAL;I.DISEÑO_BIOMÉDICO;I.DISEÑO_BIOMÉDICO4;4;Conocimientos en la documentación de normativa de los productos fresmedical;1;1;2;2;3;3;3;4;4;5;5;5;5
+FRESMEDICAL;I.DISEÑO_BIOMÉDICO;I.DISEÑO_BIOMÉDICO5;5;Conocimientos de control de calidad de las piezas de fresmedical;0;1;2;3;4;4;4;5;5;5;5;5;5
+FRESMEDICAL;I.DISEÑO_BIOMÉDICO;I.DISEÑO_BIOMÉDICO6;6;Conocimiento en metodología de detección de oportunidades de mejora en todo el proceso;1;1;2;2;3;3;4;4;4;5;5;5;5
+FRESMEDICAL;I.DISEÑO_BIOMÉDICO;I.DISEÑO_BIOMÉDICO7;7;Conocimientos en ingenieria inversa de los accesorios necesarias para el diseño/fabrican de los productos;1;2;2;3;4;4;4;5;5;5;5;5;5
+FRESMEDICAL;I.DISEÑO_BIOMÉDICO;I.DISEÑO_BIOMÉDICO8;8;Conocimientos en nuevas tendencias, i+d, etc. ;0;0;1;1;2;2;2;3;3;4;4;5;5
+FRESMEDICAL;I.DISEÑO_BIOMÉDICO;I.DISEÑO_BIOMÉDICO9;9;Conocimiento de los procedimientos internos del área;0;2;3;3;4;4;4;5;5;5;5;5;5
+FRESMEDICAL;I.DISEÑO_BIOMÉDICO;I.DISEÑO_BIOMÉDICO10;10;Conocimientos de normas y procedimientos (fichajes) de la empresa;0;2;3;3;4;4;4;5;5;5;5;5;5
+FRESMEDICAL;I.DISEÑO_BIOMÉDICO;I.DISEÑO_BIOMÉDICO11;11;Conocimiento de uso correcto de FTP - ERP (pasar ordenes a otros departamentos);0;2;3;3;4;4;4;5;5;5;5;5;5
+FRESMEDICAL;D.PROCESOS_Y_MC;D.PROCESOS_Y_MC1;1;Conocimientos en metodologías de Control de Procesos, análisis de datos y resolución de problemas;;1;2;3;3;3;4;4;5;5;5;5;5
+FRESMEDICAL;D.PROCESOS_Y_MC;D.PROCESOS_Y_MC2;2;Conocimientos de fabricación de los productos médicos (titanio, resina y poliamida);;2;3;3;3;4;4;4;5;5;5;5;5
+FRESMEDICAL;D.PROCESOS_Y_MC;D.PROCESOS_Y_MC3;3;Conocimientos en metodologías de optimización y mejora continua.;;1;1;2;2;3;3;4;4;5;5;5;5
+FRESMEDICAL;D.PROCESOS_Y_MC;D.PROCESOS_Y_MC4;4;Conocimientos de los aspectos regulatorios aplicables al producto médico.;;2;2;3;3;4;4;4;5;5;5;5;5
+FRESMEDICAL;D.PROCESOS_Y_MC;D.PROCESOS_Y_MC5;5;Conocimientos en metodologías de estrategias de mercado;;1;1;2;2;2;2;3;3;4;4;5;5
+FRESMEDICAL;D.PROCESOS_Y_MC;D.PROCESOS_Y_MC6;6;Conocimientos en Sistema de Gestión de la Calidad de productos sanitarios (ISO 13485);;2;2;3;3;4;4;4;4;5;5;5;5
+FRESMEDICAL;D.PROCESOS_Y_MC;D.PROCESOS_Y_MC7;7;Conocimientos en metodologías de liderazgo;;1;2;2;3;3;4;4;5;5;5;5;5
+FRESMEDICAL;D.PROCESOS_Y_MC;D.PROCESOS_Y_MC8;8;Conocimientos en gestión del equipo;;1;2;2;3;3;4;4;4;5;5;5;5
+FRESMEDICAL;D.PROCESOS_Y_MC;D.PROCESOS_Y_MC9;9;Conocimientos en nuevas tendencias, i+d, etc. ;;1;1;2;2;3;3;3;4;4;4;5;5
+FRESMEDICAL;D.PROCESOS_Y_MC;D.PROCESOS_Y_MC10;10;Conocimientos de normas y procedimientos (fichajes) de la empresa;;3;4;4;5;5;5;5;5;5;5;5;5
+FRESMEDICAL;D.PROCESOS_Y_MC;D.PROCESOS_Y_MC11;11;Conocimiento de uso correcto de FTP - ERP (pasar ordenes a otros departamentos);;3;4;4;5;5;5;5;5;5;5;5;5
+LOGÍSTICA;A.LOGÍSTICA;A.LOGÍSTICA1;1;Conocimientos de paquete Office;1;2;3;3;4;4;4;5;5;5;5;5;5
+LOGÍSTICA;A.LOGÍSTICA;A.LOGÍSTICA2;2;Conocimientos sobre la gestión de retrasos y reclamaciones a los transportistas;0;1;2;3;4;4;5;5;5;5;5;5;5
+LOGÍSTICA;A.LOGÍSTICA;A.LOGÍSTICA3;3;Conocimientos en documentación y trámites aduaneros;0;1;1;2;2;3;3;3;4;4;4;5;5
+LOGÍSTICA;A.LOGÍSTICA;A.LOGÍSTICA4;4;Conocimientos básicos en traslado y logística de máquinas para su reparación;0;1;1;2;2;3;3;3;4;4;4;5;5
+LOGÍSTICA;A.LOGÍSTICA;A.LOGÍSTICA5;5;Conocimientos en creación e impresión de etiquetas de transporte nacional;0;2;2;3;3;4;4;4;5;5;5;5;5
+LOGÍSTICA;A.LOGÍSTICA;A.LOGÍSTICA6;6;Conocimientos en creación e impresión de etiquetas de transporte internacional;0;1;1;2;3;3;4;4;4;5;5;5;5
+LOGÍSTICA;A.LOGÍSTICA;A.LOGÍSTICA7;7;Conocimientos en atención al cliente (avisos de retrasos);0;1;2;3;4;5;5;5;5;5;5;5;5
+LOGÍSTICA;A.LOGÍSTICA;A.LOGÍSTICA8;8;Conocimientos sobre flujo del pedido a nivel interno;0;2;3;3;4;5;5;5;5;5;5;5;5
+LOGÍSTICA;A.LOGÍSTICA;A.LOGÍSTICA9;9;Conocimientos en gestión de evidencias (fotos y adjuntar en el pedido) de productos fresmedical;0;1;2;2;3;4;5;5;5;5;5;5;5
+LOGÍSTICA;A.LOGÍSTICA;A.LOGÍSTICA10;10;Conocimientos de normas y procedimientos (fichajes) de la empresa;0;2;3;3;4;4;4;5;5;5;5;5;5
+LOGÍSTICA;A.LOGÍSTICA;A.LOGÍSTICA11;11;Conocimiento de uso correcto de FTP - ERP (pasar ordenes a otros departamentos);0;2;3;3;4;4;4;5;5;5;5;5;5
+LOGÍSTICA;T.LOGÍSTICA;T.LOGÍSTICA1;1;Conocimientos de paquete Office;1;2;3;3;4;4;4;5;5;5;5;5;5
+LOGÍSTICA;T.LOGÍSTICA;T.LOGÍSTICA2;2;Conocimientos sobre la gestión de retrasos y reclamaciones a los transportistas;0;1;2;3;4;4;5;5;5;5;5;5;5
+LOGÍSTICA;T.LOGÍSTICA;T.LOGÍSTICA3;3;Conocimientos en documentación y trámites aduaneros;0;1;1;2;2;3;3;3;4;4;4;5;5
+LOGÍSTICA;T.LOGÍSTICA;T.LOGÍSTICA4;4;Conocimientos básicos en traslado y logística de máquinas para su reparación;0;1;1;2;2;3;3;3;4;4;4;5;5
+LOGÍSTICA;T.LOGÍSTICA;T.LOGÍSTICA5;5;Conocimientos en creación e impresión de etiquetas de transporte nacional;0;2;2;3;3;4;4;4;5;5;5;5;5
+LOGÍSTICA;T.LOGÍSTICA;T.LOGÍSTICA6;6;Conocimientos en creación e impresión de etiquetas de transporte internacional;0;1;1;2;3;3;4;4;4;5;5;5;5
+LOGÍSTICA;T.LOGÍSTICA;T.LOGÍSTICA7;7;Conocimientos en atención al cliente (incidencias, reclamaciones, retrasos);0;1;2;3;4;5;5;5;5;5;5;5;5
+LOGÍSTICA;T.LOGÍSTICA;T.LOGÍSTICA8;8;Conocimientos sobre flujo del pedido a nivel interno;0;2;3;3;4;5;5;5;5;5;5;5;5
+LOGÍSTICA;T.LOGÍSTICA;T.LOGÍSTICA9;9;Conocimientos en gestión de evidencias (fotos y adjuntos en el pedido) de productos fresmedical;0;1;2;2;3;4;5;5;5;5;5;5;5
+LOGÍSTICA;T.LOGÍSTICA;T.LOGÍSTICA10;10;Conocimientos de gestión de formaciones con clientes;0;1;2;2;3;4;5;5;5;5;5;5;5
+LOGÍSTICA;T.LOGÍSTICA;T.LOGÍSTICA11;11;Conocimientos en la realización de albaranes;0;1;2;3;3;4;4;5;5;5;5;5;5
+LOGÍSTICA;T.LOGÍSTICA;T.LOGÍSTICA12;12;Conocimientos en la realización de facturación ;0;0;1;1;2;3;3;4;4;5;5;5;5
+LOGÍSTICA;T.LOGÍSTICA;T.LOGÍSTICA13;13;Conocimientos en la realización de presupuestos de los productos y servicios de grupo 3D Solutiones;0;1;1;2;2;3;3;4;4;5;5;5;5
+LOGÍSTICA;T.LOGÍSTICA;T.LOGÍSTICA14;14;Conocimientos en la alta de clientes y la documentación pertinente en BC y Gestor de Pedidos;0;1;2;3;3;4;4;5;5;5;5;5;5
+LOGÍSTICA;T.LOGÍSTICA;T.LOGÍSTICA15;15;Conocimientos de normas y procedimientos (fichajes) de la empresa;0;2;3;3;4;4;4;5;5;5;5;5;5
+LOGÍSTICA;T.LOGÍSTICA;T.LOGÍSTICA16;16;Conocimiento de uso correcto de FTP - ERP (pasar ordenes a otros departamentos);0;2;3;3;4;4;4;5;5;5;5;5;5
+LOGÍSTICA;JE.LOGÍSTICA;JE.LOGÍSTICA1;1;Conocimientos de paquete Office;;4;4;4;5;5;5;5;5;5;5;5;5
+LOGÍSTICA;JE.LOGÍSTICA;JE.LOGÍSTICA2;2;Conocimientos sobre la gestión de retrasos y reclamaciones a los transportistas;;4;4;5;5;5;5;5;5;5;5;5;5
+LOGÍSTICA;JE.LOGÍSTICA;JE.LOGÍSTICA3;3;Conocimientos en documentación y trámites aduaneros;;2;3;3;4;4;4;5;5;5;5;5;5
+LOGÍSTICA;JE.LOGÍSTICA;JE.LOGÍSTICA4;4;Conocimientos básicos en traslado y logística de máquinas para su reparación;;2;3;3;4;4;4;5;5;5;5;5;5
+LOGÍSTICA;JE.LOGÍSTICA;JE.LOGÍSTICA5;5;Conocimientos en creación e impresión de etiquetas de transporte nacional;;3;4;4;5;5;5;5;5;5;5;5;5
+LOGÍSTICA;JE.LOGÍSTICA;JE.LOGÍSTICA6;6;Conocimientos en creación e impresión de etiquetas de transporte internacional;;3;3;4;5;5;5;5;5;5;5;5;5
+LOGÍSTICA;JE.LOGÍSTICA;JE.LOGÍSTICA7;7;Conocimientos en atención al cliente (incidencias, reclamaciones, retrasos);;4;5;5;5;5;5;5;5;5;5;5;5
+LOGÍSTICA;JE.LOGÍSTICA;JE.LOGÍSTICA8;8;Conocimientos sobre flujo del pedido a nivel interno;;4;5;5;5;5;5;5;5;5;5;5;5
+LOGÍSTICA;JE.LOGÍSTICA;JE.LOGÍSTICA9;9;Conocimientos sobre gestión de imprevistos;;5;5;5;5;5;5;5;5;5;5;5;5
+LOGÍSTICA;JE.LOGÍSTICA;JE.LOGÍSTICA10;10;Conocimientos en gestión de evidencias (fotos y adjuntar en el pedido) de productos fresmedical;;3;4;5;5;5;5;5;5;5;5;5;5
+LOGÍSTICA;JE.LOGÍSTICA;JE.LOGÍSTICA11;11;Conocimientos en gestión del equipo;;1;2;2;3;3;4;4;4;5;5;5;5
+LOGÍSTICA;JE.LOGÍSTICA;JE.LOGÍSTICA12;12;Conocimientos en nuevas tendencias, i+d, etc. ;;1;1;2;2;3;3;3;4;4;4;5;5
+LOGÍSTICA;JE.LOGÍSTICA;JE.LOGÍSTICA13;13;Conocimientos de normas y procedimientos (fichajes) de la empresa;0;3;4;4;5;5;5;5;5;5;5;5;5
+LOGÍSTICA;JE.LOGÍSTICA;JE.LOGÍSTICA14;14;Conocimiento de uso correcto de FTP - ERP (pasar ordenes a otros departamentos);0;3;4;4;5;5;5;5;5;5;5;5;5
+SAT_SAC;S.TÉCNICO;S.TÉCNICO1;1;;;;;;;;;;;;;;
+SAT_SAC;S.TÉCNICO;S.TÉCNICO2;2;;;;;;;;;;;;;;
+SAT_SAC;S.TÉCNICO;S.TÉCNICO3;3;;;;;;;;;;;;;;
+SAT_SAC;S.TÉCNICO;S.TÉCNICO4;4;;;;;;;;;;;;;;
+SAT_SAC;S.TÉCNICO;S.TÉCNICO5;5;;;;;;;;;;;;;;
+SAT_SAC;S.TÉCNICO;S.TÉCNICO6;6;;;;;;;;;;;;;;
+SAT_SAC;S.TÉCNICO;S.TÉCNICO7;7;;;;;;;;;;;;;;
+SAT_SAC;S.TÉCNICO;S.TÉCNICO8;8;;;;;;;;;;;;;;
+SAT_SAC;S.TÉCNICO;S.TÉCNICO9;9;;;;;;;;;;;;;;
+SAT_SAC;S.TÉCNICO;S.TÉCNICO10;10;;;;;;;;;;;;;;
+SAT_SAC;S.TÉCNICO;S.TÉCNICO11;11;;;;;;;;;;;;;;
+FINANCIERO;R.CONTABILIDAD;R.CONTABILIDAD1;1;Conocimientos sobre contabilidad (contabilizar facturas, solucionar incidencias/reclamaciones con pagos, confeccionar remesas de pagos);;2;3;4;4;4;4;5;5;5;5;5;5
+FINANCIERO;R.CONTABILIDAD;R.CONTABILIDAD2;2;Conocimientos de paquete Office;;2;3;3;4;4;4;5;5;5;5;5;5
+FINANCIERO;R.CONTABILIDAD;R.CONTABILIDAD3;3;Conocimientos en Business Central;;2;3;4;4;4;4;5;5;5;5;5;5
+FINANCIERO;R.CONTABILIDAD;R.CONTABILIDAD4;4;Conocimientos de control y revisión balances mensuales y anuales;;0;1;1;2;3;3;3;4;4;4;5;5
+FINANCIERO;R.CONTABILIDAD;R.CONTABILIDAD5;5;Conocimientos de conciliación y pagos en cuentas bancarias;;2;3;4;4;4;4;5;5;5;5;5;5
+FINANCIERO;R.CONTABILIDAD;R.CONTABILIDAD6;6;Conocimientos en control de lissiings y prestamos;;0;1;1;2;3;3;3;4;4;4;5;5
+FINANCIERO;R.CONTABILIDAD;R.CONTABILIDAD7;7;Conocimientos en conciliar las cuentas intergrupo;;2;3;4;4;4;4;5;5;5;5;5;5
+FINANCIERO;R.CONTABILIDAD;R.CONTABILIDAD8;8;Conocimientos en control inmovilizado;;0;1;1;2;3;3;3;4;4;4;5;5
+FINANCIERO;R.CONTABILIDAD;R.CONTABILIDAD9;9;Conocimientos sobre la gestión de riesgos financieros de clientes;;0;1;1;2;3;3;3;4;4;4;5;5
+FINANCIERO;R.CONTABILIDAD;R.CONTABILIDAD10;10;Conocimientos análisis financiero (interpretar informes financieros, realizar análisis financieros y preparar informes y proyecciones financieras);;0;0;1;2;2;3;3;3;4;4;5;5
+FINANCIERO;R.CONTABILIDAD;R.CONTABILIDAD11;11;Conocimientos básicos en gestión de la tesorería (flujo de efectivo, elaboración de presupuestos de tesorería y gestión de las cuentas por pagar y por cobrar);;0;0;1;2;2;3;3;3;4;4;5;5
+FINANCIERO;R.CONTABILIDAD;R.CONTABILIDAD12;12;Conocimientos fiscales (tasas, contribuciones especiales, impuestos, auditorias, etc.);;0;0;1;2;2;3;3;3;4;4;5;5
+FINANCIERO;R.CONTABILIDAD;R.CONTABILIDAD13;13;Conocimientos en gestión del equipo;;1;2;2;3;3;4;4;4;5;5;5;5
+FINANCIERO;R.CONTABILIDAD;R.CONTABILIDAD14;14;Conocimientos de normas y procedimientos (fichajes) de la empresa;;2;3;3;4;4;4;5;5;5;5;5;5
+FINANCIERO;T.CONTROLLER;T.CONTROLLER1;1;Conocimientos en informes de ventas diarios, semanales y mensuales (por comercial);0;0;1;1;2;3;3;3;4;4;5;5;5
+FINANCIERO;T.CONTROLLER;T.CONTROLLER2;2;Conocimientos en rentabilidades por linea de negocio, productos, máquinas;0;0;1;1;2;3;3;3;4;4;5;5;5
+FINANCIERO;T.CONTROLLER;T.CONTROLLER3;3;Conocimientos de paquete Office;1;2;3;3;3;4;4;5;5;5;5;5;5
+FINANCIERO;T.CONTROLLER;T.CONTROLLER4;4;Conocimientos en Business Central;0;2;3;3;3;3;4;4;4;5;5;5;5
+FINANCIERO;T.CONTROLLER;T.CONTROLLER5;5;Conocimientos en generar informes del Business Central;0;2;3;3;3;3;4;4;4;5;5;5;5
+FINANCIERO;T.CONTROLLER;T.CONTROLLER6;6;Conocimientos de control de las delegaciones (canarias, madrid);0;0;1;1;2;3;3;3;4;4;5;5;5
+FINANCIERO;T.CONTROLLER;T.CONTROLLER7;7;Conocimientos de gestión de Factorial (control de fichajes e incidencias);0;2;3;3;3;3;4;4;4;5;5;5;5
+FINANCIERO;T.CONTROLLER;T.CONTROLLER8;8;Conocimientos de facturación del Grupo 3D Solutions;0;2;3;3;3;3;4;4;4;5;5;5;5
+FINANCIERO;T.CONTROLLER;T.CONTROLLER9;9;Conocimientos de gestión de los nuevos proyectos;0;0;1;1;2;3;3;3;4;4;5;5;5
+FINANCIERO;T.CONTROLLER;T.CONTROLLER10;10;Conocimientos de costes y escandallos;0;0;1;1;2;3;3;3;4;4;5;5;5
+FINANCIERO;T.CONTROLLER;T.CONTROLLER11;11;Conocimientos de normas y procedimientos (fichajes) de la empresa;0;2;3;3;4;4;4;5;5;5;5;5;5
+RRHH;D.ADM_Y_RRHH;D.ADM_Y_RRHH1;1;Conocimientos en nóminas, contabilidad y Seguridad Social;;3;4;4;5;5;5;5;5;5;5;5;5
+RRHH;D.ADM_Y_RRHH;D.ADM_Y_RRHH2;2;Conocimientos en gestión y derecho/legislación laboral;;3;4;4;5;5;5;5;5;5;5;5;5
+RRHH;D.ADM_Y_RRHH;D.ADM_Y_RRHH3;3;Conocimientos sobre gestión de la bonificación de formaciones (FUNDAE);;3;4;4;5;5;5;5;5;5;5;5;5
+RRHH;D.ADM_Y_RRHH;D.ADM_Y_RRHH4;4;Conocimientos en la realización de procesos de selección (entrevistas técnicas y competenciales) y contratación;;3;4;4;5;5;5;5;5;5;5;5;5
+RRHH;D.ADM_Y_RRHH;D.ADM_Y_RRHH5;5;Conocimientos en la gestión del sistema retributivo (variables, incentivos, bonus, complementos salariales, complementos extrasalariales, etc.);;2;3;3;4;4;4;5;5;5;5;5;5
+RRHH;D.ADM_Y_RRHH;D.ADM_Y_RRHH6;6;Conocimientos en desarrollo organizacional (gestión del talento);;2;2;3;3;3;4;4;4;5;5;5;5
+RRHH;D.ADM_Y_RRHH;D.ADM_Y_RRHH7;7;Conocimientos en la gestión de la igualdad y la diversidad (planes de igualdad, y lo relativo a la normativa relacionada con el acoso y la discriminación, entre otros);;2;2;3;3;3;4;4;4;5;5;5;5
+RRHH;D.ADM_Y_RRHH;D.ADM_Y_RRHH8;8;Conocimientos para medir el desempeño y la eficacia de los programas y prácticas de talento (diseño de kpis de los procesos y diseño de planes de mejora);;2;2;2;3;3;3;4;4;4;5;5;5
+RRHH;D.ADM_Y_RRHH;D.ADM_Y_RRHH9;9;Conocimientos en el desarrollo e implantación de políticas de felicidad (planes de bienestar, diseño de estudios de experiencia del empleado/a, etc.);;1;2;2;3;3;3;4;4;4;5;5;5
+RRHH;D.ADM_Y_RRHH;D.ADM_Y_RRHH10;10;Conocimientos para liderar y gestionar la transformación cultural, en lo relativo a la implementación de nuevas políticas o la reorganización de la estructura de la empresa;;1;2;2;3;3;3;4;4;4;5;5;5
+RRHH;D.ADM_Y_RRHH;D.ADM_Y_RRHH11;11;Conocimientos en gestión del equipo;;1;2;2;3;3;4;4;4;5;5;5;5
+RRHH;D.ADM_Y_RRHH;D.ADM_Y_RRHH12;12;Conocimientos de novedades y/o tendencias en el área de rrhh, personas, talento, selección,…;;1;1;2;2;3;3;3;4;4;4;5;5
+RRHH;D.ADM_Y_RRHH;D.ADM_Y_RRHH13;13;Conocimientos de normas y procedimientos (fichajes) de la empresa;;3;4;4;5;5;5;5;5;5;5;5;5
+RRHH;D.ADM_Y_RRHH;D.ADM_Y_RRHH14;14;Conocimiento de uso correcto de FTP - ERP (pasar ordenes a otros departamentos);;3;4;4;5;5;5;5;5;5;5;5;5
+INNOVACIÓN_DESARROLLO_INVESTIGACIÓN;I.DISEÑO_E_INGENIERÍA_INVERSA;I.DISEÑO_E_INGENIERÍA_INVERSA1;1;Conocimientos en el flujo de procesos y procedimientos del trabajo dental;1;2;3;3;4;5;5;5;5;5;5;5;5
+INNOVACIÓN_DESARROLLO_INVESTIGACIÓN;I.DISEÑO_E_INGENIERÍA_INVERSA;I.DISEÑO_E_INGENIERÍA_INVERSA2;2;Conocimientos básicos de diseño en EXOCAD;1;2;2;3;3;4;4;5;5;5;5;5;5
+INNOVACIÓN_DESARROLLO_INVESTIGACIÓN;I.DISEÑO_E_INGENIERÍA_INVERSA;I.DISEÑO_E_INGENIERÍA_INVERSA3;3;Conocimientos básicos de diseño en 3SHAPE;0;1;2;2;2;3;4;4;4;5;5;5;5
+INNOVACIÓN_DESARROLLO_INVESTIGACIÓN;I.DISEÑO_E_INGENIERÍA_INVERSA;I.DISEÑO_E_INGENIERÍA_INVERSA4;4;Conocimientos básicos de diseño en DENTALWINS ;0;1;2;2;2;2;3;4;4;4;5;5;5
+INNOVACIÓN_DESARROLLO_INVESTIGACIÓN;I.DISEÑO_E_INGENIERÍA_INVERSA;I.DISEÑO_E_INGENIERÍA_INVERSA5;5;Conocimientos en la creación de librerias de implantes para EXOCAD;1;2;3;3;3;4;4;4;5;5;5;5;5
+INNOVACIÓN_DESARROLLO_INVESTIGACIÓN;I.DISEÑO_E_INGENIERÍA_INVERSA;I.DISEÑO_E_INGENIERÍA_INVERSA6;6;Conocimientos en la creación de librerias de implantes para 3SHAPE;0;1;2;2;3;3;3;3;4;5;5;5;5
+INNOVACIÓN_DESARROLLO_INVESTIGACIÓN;I.DISEÑO_E_INGENIERÍA_INVERSA;I.DISEÑO_E_INGENIERÍA_INVERSA7;7;Conocimientos en la creación de librerias de implantes para DENTALWINS;0;1;2;2;2;3;3;3;3;4;5;5;5
+INNOVACIÓN_DESARROLLO_INVESTIGACIÓN;I.DISEÑO_E_INGENIERÍA_INVERSA;I.DISEÑO_E_INGENIERÍA_INVERSA8;8;Conocimientos de la tareas del departamento de alineado;0;1;1;1;2;2;2;3;3;3;4;5;5
+INNOVACIÓN_DESARROLLO_INVESTIGACIÓN;I.DISEÑO_E_INGENIERÍA_INVERSA;I.DISEÑO_E_INGENIERÍA_INVERSA9;9;Conocimientos en ingeniería inversa;0;1;2;2;3;3;4;4;4;4;5;5;5
+INNOVACIÓN_DESARROLLO_INVESTIGACIÓN;I.DISEÑO_E_INGENIERÍA_INVERSA;I.DISEÑO_E_INGENIERÍA_INVERSA10;10;Conocimientos en materiales de fabricación;0;1;1;2;2;2;3;3;3;4;4;5;5
+INNOVACIÓN_DESARROLLO_INVESTIGACIÓN;I.DISEÑO_E_INGENIERÍA_INVERSA;I.DISEÑO_E_INGENIERÍA_INVERSA11;11;Conocimientos de diseño en CATIA (módulo sólidos);1;1;2;2;3;3;4;4;4;5;5;5;5
+INNOVACIÓN_DESARROLLO_INVESTIGACIÓN;I.DISEÑO_E_INGENIERÍA_INVERSA;I.DISEÑO_E_INGENIERÍA_INVERSA12;12;Conocimientos de diseño en CATIA (módulo superficies);0;0;1;1;2;2;2;3;3;4;4;5;5
+INNOVACIÓN_DESARROLLO_INVESTIGACIÓN;I.DISEÑO_E_INGENIERÍA_INVERSA;I.DISEÑO_E_INGENIERÍA_INVERSA13;13;Conocimientos de diseño en CATIA (otros módulos);0;0;0;1;1;1;1;2;3;3;4;5;5
+INNOVACIÓN_DESARROLLO_INVESTIGACIÓN;I.DISEÑO_E_INGENIERÍA_INVERSA;I.DISEÑO_E_INGENIERÍA_INVERSA14;14;Conocimientos en programas de diseño GEOMAGIC y MAGIC (o similares);1;2;3;3;4;4;4;5;5;5;5;5;5
+INNOVACIÓN_DESARROLLO_INVESTIGACIÓN;I.DISEÑO_E_INGENIERÍA_INVERSA;I.DISEÑO_E_INGENIERÍA_INVERSA15;15;Habilidad visual-espacial;1;2;3;4;5;5;5;5;5;5;5;5;5
+INNOVACIÓN_DESARROLLO_INVESTIGACIÓN;I.DISEÑO_E_INGENIERÍA_INVERSA;I.DISEÑO_E_INGENIERÍA_INVERSA16;16;Conocimientos en ofimática;2;3;4;5;5;5;5;5;5;5;5;5;5
+INNOVACIÓN_DESARROLLO_INVESTIGACIÓN;I.DISEÑO_E_INGENIERÍA_INVERSA;I.DISEÑO_E_INGENIERÍA_INVERSA17;17;Conocimientos en matématicas;1;2;2;3;3;4;4;4;4;5;5;5;5
+INNOVACIÓN_DESARROLLO_INVESTIGACIÓN;I.DISEÑO_E_INGENIERÍA_INVERSA;I.DISEÑO_E_INGENIERÍA_INVERSA18;18;Conocimientos en gestión de incidencias y atención al cliente;1;2;3;4;4;5;5;5;5;5;5;5;5
+INNOVACIÓN_DESARROLLO_INVESTIGACIÓN;I.DISEÑO_E_INGENIERÍA_INVERSA;I.DISEÑO_E_INGENIERÍA_INVERSA19;19;Habilidad en la resolución de problemas;1;2;3;4;4;5;5;5;5;5;5;5;5
+INNOVACIÓN_DESARROLLO_INVESTIGACIÓN;I.DISEÑO_E_INGENIERÍA_INVERSA;I.DISEÑO_E_INGENIERÍA_INVERSA20;20;Conocimientos de normas y procedimientos (fichajes) de la empresa;0;2;3;4;5;5;5;5;5;5;5;5;5
+INNOVACIÓN_DESARROLLO_INVESTIGACIÓN;I.DISEÑO_E_INGENIERÍA_INVERSA;I.DISEÑO_E_INGENIERÍA_INVERSA21;21;Conocimiento de uso de FTP - ERP (pasar órdenes a otros departamentos);0;2;3;4;5;5;5;5;5;5;5;5;5
+INNOVACIÓN_DESARROLLO_INVESTIGACIÓN;D.INNOVACIÓN_DESARROLLO_INVESTIGACIÓN;D.INNOVACIÓN_DESARROLLO_INVESTIGACIÓN1;1;Conocimientos del sector del dental (tratamietno del mundo dental);;3;3;3;4;4;5;5;5;5;5;5;5
+INNOVACIÓN_DESARROLLO_INVESTIGACIÓN;D.INNOVACIÓN_DESARROLLO_INVESTIGACIÓN;D.INNOVACIÓN_DESARROLLO_INVESTIGACIÓN2;2;Conocimientos de mecanizado y materiales dentales;;2;3;3;4;5;5;5;5;5;5;5;5
+INNOVACIÓN_DESARROLLO_INVESTIGACIÓN;D.INNOVACIÓN_DESARROLLO_INVESTIGACIÓN;D.INNOVACIÓN_DESARROLLO_INVESTIGACIÓN3;3;Conocimiento de la empresa a nivel de procesos y procedimientos internos ;;1;2;3;4;5;5;5;5;5;5;5;5
+INNOVACIÓN_DESARROLLO_INVESTIGACIÓN;D.INNOVACIÓN_DESARROLLO_INVESTIGACIÓN;D.INNOVACIÓN_DESARROLLO_INVESTIGACIÓN4;4;Conocimiento de software milbox (fresado);;1;2;3;3;4;5;5;5;5;5;5;5
+INNOVACIÓN_DESARROLLO_INVESTIGACIÓN;D.INNOVACIÓN_DESARROLLO_INVESTIGACIÓN;D.INNOVACIÓN_DESARROLLO_INVESTIGACIÓN5;5;Conocimiento sobre el software de máquinas de mecanizado;;1;2;2;3;4;5;5;5;5;5;5;5
+INNOVACIÓN_DESARROLLO_INVESTIGACIÓN;D.INNOVACIÓN_DESARROLLO_INVESTIGACIÓN;D.INNOVACIÓN_DESARROLLO_INVESTIGACIÓN6;6;Conocimientos en impresión 3D ;;1;3;4;5;5;5;5;5;5;5;5;5
+INNOVACIÓN_DESARROLLO_INVESTIGACIÓN;D.INNOVACIÓN_DESARROLLO_INVESTIGACIÓN;D.INNOVACIÓN_DESARROLLO_INVESTIGACIÓN7;7;Conocimientos en gestión de proyectos;;2;3;4;5;5;5;5;5;5;5;5;5
+INNOVACIÓN_DESARROLLO_INVESTIGACIÓN;D.INNOVACIÓN_DESARROLLO_INVESTIGACIÓN;D.INNOVACIÓN_DESARROLLO_INVESTIGACIÓN8;8;Conocimientos en desarrollo de nuevos productos;;1;1;2;3;3;4;5;5;5;5;5;5
+INNOVACIÓN_DESARROLLO_INVESTIGACIÓN;D.INNOVACIÓN_DESARROLLO_INVESTIGACIÓN;D.INNOVACIÓN_DESARROLLO_INVESTIGACIÓN9;9;Conocimientos en gestión de incidencias y atención al cliente;;0;1;2;3;5;5;5;5;5;5;5;5
+INNOVACIÓN_DESARROLLO_INVESTIGACIÓN;D.INNOVACIÓN_DESARROLLO_INVESTIGACIÓN;D.INNOVACIÓN_DESARROLLO_INVESTIGACIÓN10;10;Conocimientos en informes de investigación y articulos cientificos ;;1;2;3;4;5;5;5;5;5;5;5;5
+INNOVACIÓN_DESARROLLO_INVESTIGACIÓN;D.INNOVACIÓN_DESARROLLO_INVESTIGACIÓN;D.INNOVACIÓN_DESARROLLO_INVESTIGACIÓN11;11;Conocimientos en gestión del equipo (lateral - horizontal);;1;2;2;3;3;4;4;4;5;5;5;5
+INNOVACIÓN_DESARROLLO_INVESTIGACIÓN;D.INNOVACIÓN_DESARROLLO_INVESTIGACIÓN;D.INNOVACIÓN_DESARROLLO_INVESTIGACIÓN12;12;Conocimientos en nuevas tendencias, i+d, etc. ;;1;1;2;2;3;3;3;4;4;4;5;5
+INNOVACIÓN_DESARROLLO_INVESTIGACIÓN;D.INNOVACIÓN_DESARROLLO_INVESTIGACIÓN;D.INNOVACIÓN_DESARROLLO_INVESTIGACIÓN13;13;Conocimientos de normas y procedimientos (fichajes) de la empresa;;3;4;4;5;5;5;5;5;5;5;5;5
+INNOVACIÓN_DESARROLLO_INVESTIGACIÓN;D.INNOVACIÓN_DESARROLLO_INVESTIGACIÓN;D.INNOVACIÓN_DESARROLLO_INVESTIGACIÓN14;14;Conocimiento de uso correcto de FTP - ERP (pasar ordenes a otros departamentos);;3;4;4;5;5;5;5;5;5;5;5;5
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
